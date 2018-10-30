@@ -1,1 +1,1 @@
-# react-router-redux-forms
+# Example using React router & Redux form
